@@ -1,0 +1,9 @@
+C:\Users\THINKPAD\Documents\PRG161\LibraryManagementSystem3\LibraryManagementSystem3\obj\Debug\LibraryManagementSystem3.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Documents\PRG161\LibraryManagementSystem3\LibraryManagementSystem3\obj\Debug\LibraryManagementSystem3.csproj.CoreCompileInputs.cache
+C:\WEBSITE PROJECT\LibraryManagementSystem3\obj\Debug\LibraryManagementSystem3.csproj.AssemblyReference.cache
+C:\WEBSITE PROJECT\LibraryManagementSystem3\obj\Debug\LibraryManagementSystem3.csproj.CoreCompileInputs.cache
+C:\WEBSITE PROJECT\LibraryManagementSystem3\bin\Debug\LibraryManagementSystem3.exe.config
+C:\WEBSITE PROJECT\LibraryManagementSystem3\bin\Debug\LibraryManagementSystem3.exe
+C:\WEBSITE PROJECT\LibraryManagementSystem3\bin\Debug\LibraryManagementSystem3.pdb
+C:\WEBSITE PROJECT\LibraryManagementSystem3\obj\Debug\LibraryManagementSystem3.exe
+C:\WEBSITE PROJECT\LibraryManagementSystem3\obj\Debug\LibraryManagementSystem3.pdb
